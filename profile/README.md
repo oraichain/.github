@@ -3,8 +3,6 @@
 
 ## Oraichain
 
-Broadcast Trustworthy Proofs
-
 IBC-enabled Layer 1 to verify multidimensional trustworthiness of AI and to build Web3 applications with unique AI Oracle™.
 
 Docs for the network can be found at [docs.orai.io](https://docs.orai.io/). Some repositories of interest:
