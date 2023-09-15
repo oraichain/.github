@@ -1,5 +1,5 @@
-![Banner!](https://github.com/oraichain/orai/raw/master/doc/logo-full-h-light.png#gh-light-mode-only)
-![Banner!](https://github.com/oraichain/orai/raw/master/doc/logo-full-h-dark.png#gh-dark-mode-only)
+![Banner!](https://github.com/oraichain/orai/raw/master/orai/doc/logo-full-h-light.png#gh-light-mode-only)
+![Banner!](https://github.com/oraichain/orai/raw/master/orai/doc/logo-full-h-dark.png#gh-dark-mode-only)
 
 ## Oraichain ![](https://img.shields.io/github/stars/oraichain?label=Stars) ![](https://img.shields.io/github/followers/oraichain?label=Followers)
 
