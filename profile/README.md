@@ -14,7 +14,7 @@ Docs for the network can be found at [docs.orai.io](https://docs.orai.io/). Some
 
 ## Cosmwasm ecosystem
 
-- [orai](https://github.com/oraichain/orai) - A cosmos-sdk based framework that support multiversion of cosmwasm, and zkVm to scale your dApp and reduce costs on L2 without compromising on security, by facilitating zero knowledge proofs.
+- [orai](https://github.com/oraichain/orai) - A cosmos-sdk based framework that supports multiversion of cosmwasm, and zkVm to scale your dApp and reduce costs on L2 without compromising on security, by facilitating zero knowledge proofs.
 - [cw-simulate](https://github.com/oraichain/cw-simulate) - An online playground / simulation environment for interacting with CosmWasm contract binaries without a blockchain. Can be used for execution visualization / interactive debugging with time-traveling navigation, and testing framework that is compatible with CosmWasm/ts-codegen output.
 
 ## JS tooling
