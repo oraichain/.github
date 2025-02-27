@@ -1,6 +1,6 @@
 ## Oraichain ![](https://img.shields.io/github/stars/oraichain?label=Stars) ![](https://img.shields.io/github/followers/oraichain?label=Followers)
 
-IBC-enabled Layer 1 to verify multidimensional trustworthiness of AI and to build Web3 applications with unique AI oracle.
+IBC-enabled Layer 1 to verify multidimensional trustworthiness of AI and to build Web3 applications with unique AI blockchain oracle.
 
 Docs for the network can be found at [docs.orai.io](https://docs.orai.io/). Some repositories of interest:
 
